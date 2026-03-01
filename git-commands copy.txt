@@ -1,0 +1,10 @@
+Common Git Commands
+
+git init – Initialize a new repository
+git add . – Add files to staging area
+git commit -m "message" – Save changes
+git push – Upload changes to GitHub
+git pull – Download latest changes
+git branch – Show branches
+git checkout -b branch-name – Create new branch
+git merge – Merge branches
